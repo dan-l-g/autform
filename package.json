@@ -1,0 +1,17 @@
+{
+  "name": "save",
+  "version": "1.0.0",
+  
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "mocha main_test.js"},
+  "dependencies": {
+    "mocha": "^11.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
